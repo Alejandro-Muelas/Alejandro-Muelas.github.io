@@ -1,6 +1,6 @@
 # cmi22 (no sé si hay que cambiarlo)
 
-![Titulo](https://user-images.githubusercontent.com/106830874/172299849-40f3edfd-74fa-4f21-bc4a-3a48264e574f.png)
+                    ![Titulo](https://user-images.githubusercontent.com/106830874/172299849-40f3edfd-74fa-4f21-bc4a-3a48264e574f.png)
 
 Gary´s Adventure se trata de un juego de plataformas inspirado en la serie de Bob Esponja y orientado a niños y niñas de entre 7 y 14 años.
 
