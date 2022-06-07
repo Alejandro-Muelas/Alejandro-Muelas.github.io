@@ -30,6 +30,7 @@ Gary´s Adventure se trata de un juego de plataformas inspirado en la serie de B
 **Fecha** : 10/06/2022
 
 **Medios** GitHub
+
 ![Bob](https://user-images.githubusercontent.com/106830874/172297353-b4d3e21a-7c9a-43d9-9abe-e9d47727459f.png)
 
 
