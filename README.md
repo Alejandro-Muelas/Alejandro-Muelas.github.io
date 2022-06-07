@@ -40,7 +40,7 @@ Gary´s Adventure se trata de un juego de plataformas inspirado en la serie de B
 
 
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Gary no tiene nada que hacer mientras Bob Esponja se encuentra trabajando en el Crustáceo Crujiente. Debido a ello y a un hambre voraz se vestirá con sus mejores galas e iniciará una travesía en busca del "Gran Cuenco de Kangrepienso". No será fácil pues diferentes medios han avistado una gran tormenta que se acerca a Fondo de Bikini cuyas corrientes, objetos y fauna se han visto alterados. Quizás Plankton esté relacionado con ella. La aventura de Gary no será fácil, deberá aumentar su velocidad, esquibar corales, medusas y almejas cantoras si quiere llegar sano y salvo a su meta.
 
 
 
@@ -58,7 +58,7 @@ Gary´s Adventure se trata de un juego de plataformas inspirado en la serie de B
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
+Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience) (no se que hay que poner)
 
 
 
