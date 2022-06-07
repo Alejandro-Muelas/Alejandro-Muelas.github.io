@@ -1,44 +1,37 @@
-# cmi22
+# cmi22 (nose si hay que cambiarlo)
 
 ## (Gary´s Adventure)
 
-Gary´s Adventure se trata de un juego de plataformas inspirado en la serie de Bob Esponja y orientado a niños de entre 7 y 14 años. Este juego tiene un formato HTML.
+Gary´s Adventure se trata de un juego de plataformas inspirado en la serie de Bob Esponja y orientado a niños y niñas de entre 7 y 14 años.
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Gary´s Adventure
 
-**Web:**   (url github.io)
+**Web:**   (url github.io) (cambiar luego)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Alejandro Muelas Jiménez
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : En este proyecto se presenta una variación actualizada y más llamativa del juego clásico de Google: "T-Rex". En él encontraremos una ambientación clásica de el estilo de animación de Bob Esponja y guiños a otras series y películas a través de las "skins" La dificultad del juego va acorde al público al que va dirigido, en este caso niños y niñas de entre 7 y 14 años. No obstante todo el mundo puede jugar y ver si es capaz de llegar a la meta dónde Gary obtendrá su recompensa tras una larga travesía.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![Logo](https://user-images.githubusercontent.com/106830874/172296622-c1ec88dd-9e58-4aa1-931c-b401b063fb30.png)
 
-(insertar imágenes a resolucion de 100px alto)
+**Resolución:** 1920x1080. No reescalable.
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Probado en:** Google Chrome, Firefox, Microsoft Edge.
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Tamaño proyecto:** 14MB  (cambiar luego)
 
-**Tamaño proyecto:** 14MB 
+**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA) (no se que hay que poner)
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Fecha** : 10/06/2022
 
-**Fecha** : 14/05/2020
+**Medios** GitHub
+![Bob](https://user-images.githubusercontent.com/106830874/172297353-b4d3e21a-7c9a-43d9-9abe-e9d47727459f.png)
 
-**Medios** (donde se tiene presencia relacionada):
-
-- Github:
-- Twitter
-- Instagram
-
-
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
 
 # 2. Memoria del proyecto 
 
