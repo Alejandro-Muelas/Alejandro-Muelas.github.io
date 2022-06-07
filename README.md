@@ -1,8 +1,8 @@
 # cmi22
 
-## (Nombre del proyecto)
+## (Gary´s Adventure)
 
-Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
+Gary´s Adventure se trata de un juego de plataformas inspirado en la serie de Bob Esponja y orientado a niños de entre 7 y 14 años. Este juego tiene un formato HTML.
 
 
 # 1 Datos 
