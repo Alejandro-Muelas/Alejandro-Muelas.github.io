@@ -1,6 +1,6 @@
-# cmi22 (nose si hay que cambiarlo)
+# cmi22 (no sé si hay que cambiarlo)
 
-## (Gary´s Adventure)
+# Gary´s Adventure
 
 Gary´s Adventure se trata de un juego de plataformas inspirado en la serie de Bob Esponja y orientado a niños y niñas de entre 7 y 14 años.
 
