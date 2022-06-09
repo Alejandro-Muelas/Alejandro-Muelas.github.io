@@ -22,7 +22,9 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 **ESTILO/GÉNERO:**  Juego / Juego de plataformas.
 
 **LOGOTIPO:**
-![Logo](https://user-images.githubusercontent.com/106830874/172830495-85269d07-2f2d-435c-a351-b2d696d3d544.png)
+
+![Logo](https://user-images.githubusercontent.com/106830874/172839894-c7b18113-fcd6-4ade-9bf6-9b4acfb8806e.png)
+
 
 **RESOLUCIÓN:** 800x800px. No reescalable dado que podría perder la calidad de algunos de sus elementos o verse distorsionado.
 
@@ -45,7 +47,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 ### **LORE**
 
-***Gary no tiene nada que hacer mientras Bob Esponja se encuentra trabajando en el Crustáceo Crujiente. Debido a ello y a un hambre voraz se vestirá con sus mejores galas e iniciará una travesía en busca del "Gran Cuenco de Kangrepienso". No será fácil pues diferentes medios han avistado una gran tormenta que se acerca a Fondo de Bikini cuyas corrientes, objetos y fauna se han visto alterados. Quizás Plankton esté relacionado con ella. La aventura de Gary no será fácil, deberá aumentar su velo cidad, esquivar corales, medusas y almejas cantoras si quiere llegar sano y salvo a su meta.***
+***Gary no tiene nada que hacer mientras Bob Esponja se encuentra trabajando en el Crustáceo Crujiente. Debido a ello y a un hambre voraz se vestirá con sus mejores galas e iniciará una travesía en busca del "Gran Cuenco de Kangrepienso". No será fácil pues diferentes medios han avistado una gran tormenta que se acerca a Fondo de Bikini cuyas corrientes, objetos y fauna se han visto alterados. Quizás Plankton esté relacionado con ella. La aventura de Gary no será fácil, deberá aumentar su velocidad, esquivar corales, medusas y almejas cantoras si quiere llegar sano y salvo a su meta.***
 
 Al iniciar el juego aparecera una entrada animada en la que los diferentes botones, elementos y personajes del juego aparecen en la pantalla. Cabe la posibilidad de adelantar la animación hasta el menú rincipal a través del botón "Skip". Tras ello el jugador se encuentra en el menú principal donde se disponen de forma vertical los botones de  "Jugar", "Extras" y "Créditos". En la esquina superior derecha encontramos dos botones: uno para quitar el sonido y otro para volver a activarlo.![Entrada](https://user-images.githubusercontent.com/106830874/172838852-3ea96c71-688b-4a5c-be02-ca38b68c5ced.PNG)
 
