@@ -64,23 +64,19 @@ Al iniciar el juego aparecera una entrada animada en la que los diferentes boton
 ![Créditos](https://user-images.githubusercontent.com/106830874/172838954-32c7fc5a-403c-4b3b-aa3e-837ad9c490b5.PNG)
 
 
-
+***CADA ESCENA TENDRÁ UN BOTÓN DE MENÚ PARA QUE EL JUGADOR PUEDA ACCEDER A ÉL FACILMENTE***
 
 ### 2.2. ESQUEMA DE NAVEGACIÓN
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![Esquema de navegacion](https://user-images.githubusercontent.com/106830874/172850688-57260627-1610-4107-a450-97f309c626f1.png)
 
 
 
+# 3. METODOLOGÍA
 
-
-
-
-# 3. Metodología
-
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience) (no se que hay que poner)
+Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience).
 
 
 
