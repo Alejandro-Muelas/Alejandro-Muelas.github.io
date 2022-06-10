@@ -29,7 +29,7 @@ Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de l
 
 **PROBADO EN:** Google Chrome, Firefox, Microsoft Edge. No disponible para dispositivos que no dispongan de teclado.
 
-**TAMAÑO DEL PROYECTO:** 14MB  (cambiar luego)
+**TAMAÑO DEL PROYECTO:** 30MB.
 
 **LICENCIA** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
