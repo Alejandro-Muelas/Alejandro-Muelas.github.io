@@ -80,18 +80,20 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 
 
-### Etapa 1: Ideación de proyecto
+### ETAPA 1: IDEACIÓN DE PROYECTO
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+**-** *T-Rex* de Google (juego de plataformas). https://trex-runner.com/ (inspiración principal para trabajar sobre la jugabilidad y género del juego).
+
+**-** *Bob Esponja* (serie de animación) http://www.bobesponjaweb.com/ (inspiración para trabajar la propuesta visual del juego).
+
+**-** Diferentes series y peliculas de animación de los 90s y la primera década de los 2000 para la creación de *skins*.
 
 
+**MOTIVACIÓN DE LA PROPUESTA**
 
-**Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
+Desde el inicio de la asignatura, en el momento en que se planteó el proyecto, tuve claro que mi elección y mi propuesta de trabajo iba orientada hacia un juego y no un portafolio o una historia narrativa. Esto tiene su causa en que pensé que sería bastante más entretenido y adecuado al público que quería dirigir el proyecto. Desde que inicié mis estudios de Bellas Artes, Diseño y Creación Multimedia, hará ya unos años, siempre he querido realizar proyectos y propuestas que entretengan a los niños, desde juegos, series de animación, fotomontajes, etc pero, que a la larga, tuviesen una jugabilidad o un trasfondo que los adultos y niños más granden también pudiesen aplicar o entender. Es por ello que en primeras intancias comencé con una idea clara de lo que quería. Sí que es cierto que en un principio me llevó más trabajo de lo normal dado que debía de realizar todos los diseños, escenarios y elementos a mano, y más tarde traspasarlos a un formato digital para que tuviesen un estilo uniforme
 
 
 
