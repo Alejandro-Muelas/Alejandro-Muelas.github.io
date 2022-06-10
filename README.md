@@ -93,67 +93,60 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **MOTIVACIÓN DE LA PROPUESTA**
 
-Desde el inicio de la asignatura, en el momento en que se planteó el proyecto, tuve claro que mi elección y mi propuesta de trabajo iba orientada hacia un juego y no un portafolio o una historia narrativa. Esto tiene su causa en que pensé que sería bastante más entretenido y adecuado al público que quería dirigir el proyecto. Desde que inicié mis estudios de Bellas Artes, Diseño y Creación Multimedia, hará ya unos años, siempre he querido realizar proyectos y propuestas que entretengan a los niños, desde juegos, series de animación, fotomontajes, etc pero, que a la larga, tuviesen una jugabilidad o un trasfondo que los adultos y niños más granden también pudiesen aplicar o entender. Es por ello que en primeras intancias comencé con una idea clara de lo que quería. Sí que es cierto que en un principio me llevó más trabajo de lo normal dado que debía de realizar todos los diseños, escenarios y elementos a mano, y más tarde traspasarlos a un formato digital para que tuviesen un estilo uniforme
+Desde el inicio de la asignatura, en el momento en que se planteó el proyecto, tuve claro que mi elección y mi propuesta de trabajo iba orientada hacia un juego y no un portafolio o una historia narrativa. Esto tiene su causa en que pensé que sería bastante más entretenido y adecuado al público que quería dirigir el proyecto. Desde que inicié mis estudios de Bellas Artes, Diseño y Creación Multimedia, hará ya unos años, siempre he querido realizar proyectos y propuestas que entretengan a los niños, desde juegos, series de animación, fotomontajes, etc pero, que a la larga, tuviesen una jugabilidad o un trasfondo que los adultos y niños más granden también pudiesen aplicar o entender. Es por ello que en primeras intancias comencé con una idea clara de lo que quería. Sí que es cierto que en un principio me llevó más trabajo de lo normal dado que debía de realizar todos los diseños, escenarios y elementos a mano, y más tarde traspasarlos a un formato digital para que tuviesen un estilo uniforme.
+
+No obstante, tras realizar dichos elementos y comenzar a poner en práctica los códigos que el profesor nos enseñaba fue todo rodado. Es por su estilo visual, jugabilidad, variedad de *skins* y elementos que hacen del juego un pasatiempo divertido para cualquier persona. Su estilo fresco y luminoso te atraprá, así como la interacción con cada uno de los elementos y el factor de querer desbloquear la escena de *VICTORIA*.
 
 
 
-**Publico / audiencia**
+**PÚBLICO / AUDIENCIA**
 
-- Orientado a 
-
-
+Este juego está orientado a cualquier persona mayor de siete años. Su rango adecuado es de 7 a 14 años.
 
 
 
-### Etapa 2: Desarrollo / actividades realizadas
+### ETAPA 2: DESARROLLO Y ACTIVIDADES REALIZADAS
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+**- JUEGO:** Para realizar el juego he mantenido una organización y trabajo constante hasta que he conseguido lo que quería plasmar y hasta materializar la idea que tenía desde un principio. Para ello he tenido que indagar sobre diferentes tipos de programación más allá de la que se utiliza en las clases impartidas. He realizado tutorías con el docente pararesolver dudas. Los principale problemas que se han planteado han sido en la jugabilidad, dado que el movimiento de ciertos elementos debían de estar perfectamente sincronizados con el movimiento "eterno" del fondo y a su vez entender las colisiones entre personajes y elementos. Para su solución tuve que crear diferentes variables y scripts que se interrelacionasen entre sí y aplicar los mismos códigos que permitían el movimiento del fondo a los elementos, añadiendo por otra parte las colisiones.
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+**- VIDEO:** Para su realización me serví de diferentes programas y softwares para la grabación de pantalla, exportación del proyecto en MP4 y su posterior montaje.
+
+**- INSTRUCCIONES Y AYUDA  AL USUARIO:** Dada la simplicidad y el fácil entendimiento he considerado no necesario la implementación de instrucciones para el usuario.
 
 
 
-### Etapa 3: Problemas identificados
+### ETAPA 3: PROBLEMAS IDENTIFICADOS
 
-(que consideras que no  funciona correctamente y por qué )
-
-
-
-# 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Más allá de los propblemas y errores que plantea el propio software de *Hippani* no he encontrado otro tipo de problemas que no se puedan resolver con un poco de investigación y tiempo.
 
 
 
+# 4. CONCLUSIONES
+
+La programación siempre ha llamado mi atención aunque lo que he tocado de ella no tiene nada que ver con mécanicas de juego ni nada por el estilo. Sin duda, a pesar de que *Hippani* se encuentra bastante obsoleto para ciertos asuntos volveré a utilizarlo junto con programas más adecuados para la creación de aplicaciones y juegos que vienen adaptados a diseñadores e lustradores o personas con pocos conocimientos de programación. Pese a ello opino que mi trabajo ha resultado de los mejores de la clase, tras ver las exposiciones de ellos y que el resultado para mi ha sido satisfactorio. Ha sido un placer y un sufrimiento en partes iguales tener esta asignatura y oder cursarla.
 
 
 
+# 5 REFERENCIAS
 
-# 5 Referencias 
-
-**Artículos y blogs ** 
+**ARTÍCULOS Y BLOGS**
 
 - Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
-**Recursos y materiales audiovisuales:**
+**RECURSOS Y MATERIALES UTILIZADOS:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+**- MÚSICA:** Canciones e intrumentales de uso libre y acordes a la temática del juego.
 
-**Herramientas utilizadas**
+**- IMÁGENES:** Alejandro Muelas Jiménez.
 
-- Hippani Animator 5.1
-- 
+**_ TIPOGRAFÍAS:** Spongeboy Me Bob.
+
+**HERRAMIENTAS UTILIZADAS**
+
+- Hippani Animator 5.1.
+- Adobe Illustrator.
+-  Adobe Photoshop.
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
+JUNIO 2022
